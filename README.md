@@ -48,7 +48,6 @@ CALCULATE(
 
 ## Aperçu du nettoyage
 ![Power Query](screenshots/03_power_query_etapes.png)
-![Fusion](screenshots/04_fusion_requetes.png)
 
 ## Outils
 Power BI Desktop · Power Query · DAX · Excel
